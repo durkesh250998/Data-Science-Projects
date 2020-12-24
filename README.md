@@ -28,3 +28,13 @@ Gender -	The gender of applicant
 
 Result:
 KNN and Decision Tree are the Best models with an accuracy of 70%
+
+Tools used: Pandas, Matplotlib,Scikit-Learn,Algorithms-SVM,KNN,LOGISTIC REGRESSION,DECISION TREE
+
+#Movie Recommendation Engine
+
+*To suggest the movies to the users based on the similar movies they have already watched.
+*The Genre of the movie is rated by the user, is summed up to predict the favorites content such as Action, Adventure, Comedy, Crime, Drama, Fantasy and so on and the movie similar to that genres are recommended
+
+Improvisation of the model:
+The model can still be developed with item based rather than genre-based using Pearson Coefficient techniques
